@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NoFragmentDemo</string>
+    <string name="red">RED</string>
+    <string name="yellow">YELLOW</string>
+    <string name="green">GREEN</string>
+    <string name="click_me_to_new_view">Click me to next view</string>
+    <string name="first_view">First view</string>
+    <string name="second_view">Second view</string>
+</resources>
